@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Build outputs
+bin/
+obj/
+
+# CODESYS project temporary files
+*.compiled
+*.cache
